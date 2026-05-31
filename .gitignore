@@ -1,0 +1,7 @@
+# Ignore assets and data folders
+assets/
+data/
+
+# Ignore other common files
+.env
+.DS_Store
