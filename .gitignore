@@ -1,6 +1,11 @@
 # Ignore assets and data folders
 assets/
 data/
+tensorflow/tensorflow_hub/
+.git/
+notebook/convolutional network and computer vision/__MACOSX/
+notebook/convolutional network and computer vision/10_food_classes_all_data/
+
 
 # Ignore other common files
 .env
